@@ -20,7 +20,7 @@ The idea is to do an trivia app with 4 screens
 
 # Requirements
 
-Use React Native with styled-components, react-navigation, axios and any global state management library like Context, Redux or Mobx
+Use React/React Native with styled-components, react-outer/react-navigation, axios and any global state management library like Context, Redux or Mobx
 
 # Questions
 
