@@ -30,7 +30,7 @@ Also if it is made in react native work with the fonts and pixel responsiveness 
 
 # Questions
 
-Any questions send me a message on React Brasil to LFSCamargo
+Any questions send a message on React Brasil to LFSCamargo
 
 https://react-brasil.github.io/react-brasil-slack/
 
