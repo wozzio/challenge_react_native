@@ -1,4 +1,4 @@
-# Challenge React Native
+# Challenge React/ReactNative
 
 <img src="flow.png" />
 
